@@ -1,6 +1,3 @@
 # 9-19-18-ACM
 
-A list 
-* 1
-* 2
-
+a read me is a descriptionof a project
